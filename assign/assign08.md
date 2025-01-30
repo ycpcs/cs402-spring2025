@@ -25,7 +25,7 @@ You will have 90 minutes to give your presentation.  There may also be an extens
 
 You should use presentation software such as PowerPoint or Google Slides for your presentation. Your slides should contain brief bulleted points and graphics that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or a prepared script.
 
-**NOTE:** You will have already submitted your draft technical report **before** your final milestone presentation.  You can leverage the draft report contents for the figures, diagrams, pictures, screen captures, etc that will appear in your presentation.
+**NOTE:** We will have reviewed your draft technical report in class **before** your final milestone presentation.  You can leverage the draft report contents for the figures, diagrams, pictures, screen captures, etc that will appear in your presentation.
 
 **Please rehearse your presentation!** We can't allow any presentation to go over its allotted time. You may wish to have a few notecards for reference. However, you should not read directly from your notecards or from your slides. This makes for a very boring and painful presentation.
 
@@ -41,7 +41,7 @@ Here is a suggested structure for your presentation:
 
 1.  Background: What problem were you trying to solve? Discuss the state of the project at the begining of the semester and the new/modified system requirements that you addressed.  Show a diagram of your overall system architecture, how the pieces fit together and interact, and how data flows between them.
 
-2.  Analysis and design: Discuss your design model. In this part of the presentation, you must show a UML class diagram illustrating the most important classes and methods in your system, and how they relate/interact with each other. Please use multiple UML diagrams if a single diagram would have too many classes.  You must also show your Database Schema, and show how your tables interact with your classes.  You may also use multiple slides for your datbase schema for clarity.  This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
+2.  Analysis and design: Discuss your design model. In this part of the presentation, you must show a UML class diagram illustrating the most important classes and methods in your system, and how they relate/interact with each other. Please use **multiple UML diagrams** if a single diagram would have too many classes.  You must also show your Database Schema, and show how your tables interact with your classes.  You may also use **multiple slides for your database schema** for clarity.  This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
 	
 3. Discuss the development tools/technologies that you ended up using. Describe what they contribute to the project.
 
@@ -61,7 +61,7 @@ Here is a suggested structure for your presentation:
 
 # Grading
 
-Your assignment grade will be determined as follows:
+You will be receiving **qualitative** rather than **quantitative** feedback for this assignment. Although you will **NOT** receive a numeric assessment, you can use the following rubric to prioritize your efforts:
 
 -   Draft Report **(16% of overall project grade):**
     -   Organization/Flow: **25%**
@@ -78,7 +78,7 @@ Your assignment grade will be determined as follows:
 
 -   Final Report **(4% of overall project grade)**
 
-You will also be submitting Final Peer Evaluations a few days after your presentation.  See the schedule for the date.  You instructor will provide the form and further details to you.
+You will also be submitting Final Peer Evaluations a few days after your presentation.  See the schedule for the date.  Your instructor will provide the form and further details to you.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

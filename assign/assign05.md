@@ -26,7 +26,7 @@ You should use presentation software such as PowerPoint or Google Slides. Your s
 Your presentation should include the following elements:
 
 - Provide a brief description of the project.
-- Provide an **updated** high-level overview of your system architecture.
+- Provide an **updated** high-level overview of your system architecture (UML and DB Schema).
 - Explain what tools/technologies you are using, what role they play in your project development, and any changes you may have made since Milestone 1.
 - Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your **updated** UML diagram(s) and Database Schema.
 - Walk through your UI (and/or internal workflow) and explain the use case functionality it demonstrates.
@@ -41,11 +41,11 @@ Your presentation should include the following elements:
 
 # Grading
 
-Your team grade will be determined as follows:
+You will be receiving **qualitative** rather than **quantitative** feedback for this assignment. Although you will **NOT** receive a numeric assessment, you can use the following rubric to prioritize your efforts:
 
 - Issue tracker is up-to-date with latest Use Cases and Issues: **10%**
-- Discussion of how this functionality is implemented in the underlying object model, including updated UML diagram(s) and Database Schema: **25%**
-- Important system functionality is demonstrated: **30%**
+- Discussion of how this functionality is implemented in the underlying object model, including updated UML diagram(s) and Database Schema: **15%**
+- Important system functionality is demonstrated: **40%**
 - Demonstration of automated Unit Test framework: **10%**
 - Discussion of how system will be evolved to add remaining functionality: **10%**
 - Organization and quality of presentation: **15%**
