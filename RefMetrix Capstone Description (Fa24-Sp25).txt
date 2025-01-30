@@ -1,0 +1,27 @@
+The RevMetrix project is intended to develop a comprehensive system for measuring, collecting, analyzing, comparing, and displaying a wide variety of performance "metrix" related to bowling.  More specifically, one component of the system (the SmartDot module) is a small lower-power, embedded system located at the bottom of a finger hole that measures and records the internal dynamics of the ball (via a 6-axis IMU) from the start of the bowler's approach, through their delivery, the ball's impact with the lane, and then the pins.  The second component (the Ciclopes Application) records the external view of the bowling ball's reaction (ball path) from the bowler's delivery of the ball to the lane through the ball's impact with the pins.  Ciclopes then produces a graphical ball path from that recorded video.  The output from both components is fed to a smart phone application (the RevMetrix App) that integrates those internal and external "views" and calculates various "metrix" useful to the bowler for monitoring, analyzing, and improving their game.  Example "metrix" are initial linear and angular velocities, axis tilt and rotation, ball path, release point, break point, angle of attack into the pocket, etc.  The SmartDot module transmits its data to the RevMetrix App via Bluetooth Low Energy (BLE), while the Ciclopes App resides on the smartphone that runs running the RevMetrix App.  The RevMetrix project is intended to be a multi-year, multi-disciplinary project spanning the CE, EE, ME, and CS disciplines, with both Professor Hake and Dr. Babcock serving as the clients.  See Prof. Hake and/or Dr. Babcock for more details.
+
+Below are the discipline-specific research and design areas:
+
+Mechanical Engineering:
+- Physical system for active simulation of ball physics (controlled rotation and tilt/rotation of primary axis of bowling ball, as well as lane and pin impacts)
+- Control systems including motor control for above
+- Physical case for SmartDot module and battery
+- Separate fingerhole sleeve or latch for ease of installation/removal of SmartDot module w/case 
+
+Computer Engineering:
+- Embedded system design and development (SmartDot module and/or ball physics simulator)
+- Sensors and electronic circuits for data acquisition and system control
+- Data acquisition, processing, and control using microcontrollers and IMUs
+- Algorithm development for processing and autonomous operation
+
+Computer Science:
+- User interface(s) with the systems
+- Develop frontend and backend systems
+- Phone application to integrate SmartDot and Ciclopes, and collect/display bowler information
+- Algorithm development for data processing and autonomous operation
+
+Electrical Engineering:
+- Sensors and electronic circuits for data acquisition and system control
+- Control systems
+
+The design team is anticipated to have 6-8 students consisting of 2-3 ME students, 1 CE student, 1 EE student (if available), and 3-4 CS students.
