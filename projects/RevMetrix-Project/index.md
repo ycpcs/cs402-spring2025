@@ -8,7 +8,7 @@ title: CS Capstone II (RevMetrix Project)
 
 ## CS402: CS Capstone II (RevMetrix Project)
 
-## Spring 2024
+## Spring 2025
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -24,9 +24,13 @@ This is the web page for the RevMetrix Project for CS402 Spring 2024 at [York Co
 
 ## RevMetrix Project Description
 
-You will be continuing development of the RevMetrix Project, building upon the initial accomplishments from the [RevMetrix Project Capstone I (CS400) Team from Fall 2023](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project).
+You will be continuing development of the RevMetrix Project, building upon the accomplishments from the [RevMetrix Project Capstone I (CS400) Team from Fall 2024](https://ycpcs.github.io/cs400-fall2024/projects/RevMetrix-Project).
 
 Your basic goals for the semester are to:
+
+TBD
+
+<!-- Commenting out News until it's needed - and the dates could change, anyway
 
 *	Develop a functional RevMetrix **Bowler** User Interface (RMxB-UI) that allows for bowler input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix User Back-End Database (RMxB-DB). The RMxB-UI is a multi-platform phone application.  If the cross-platform development tools support it, a Windows PC version of the RMxB-UI application would also be useful (but not a high priority).  Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.  And here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
 
@@ -49,6 +53,7 @@ real video and start to modify, as necessary.
 
 *	Continue to develop BLE (Bluetooth Low-Energy) connectivity between BLE sensor hardware (3-axis accelerometer, 3-axis gyroscope, ambient light sensor) and a phone application so that the BLE sensor suite can upload live data to a phone application.
 
+-->
 
 ## RevMetrix Master's Thesis and Presentation
 
@@ -69,7 +74,7 @@ Here is a set of raw data from an actual bowling session:
 *	Here is an an [Updated Excel Spreadsheet](./resources/Shots(0-19)-Suburban(8-29-10)-BallRecord00002-annotated.xlsx) that contains annotations explaining the various components of the raw data.  A second page has been added for Ball Record 00002 that contains the actual 32-bit RTC (Real Time Clock) time stamps for all of the ADXL Pages, the Light Pages, and the SmartDot Events to be sent to the phone application.  The SmartDot Event time stamps could be used to send event signals via BLE in real time (during simulation) from the SmartDot simulator to the phone application.  For Ball Record 00002, all of the individual ADXL and Light sample time stamps have been recalculated based on the actual RTC captures for each page.  You can use these RTC time stamps to generate the exact time stamp values captured in the raw data when running the simulator.  Please look in the **Notes** for the cells for additional information.  
 
 ## News
-<!-- Commenting out YCPHacks-specific News until it's needed - and the dates could change, anyway
+<!-- Commenting out News until it's needed - and the dates could change, anyway
 
 * 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
 
@@ -87,8 +92,6 @@ Here is a set of raw data from an actual bowling session:
 
 * 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Monday, 10-24-22, with presentation and demo during class
 
--->
-
 * 2-18-24: Posted the basic requirements for the RevMetrix Project for this semester.
 
 * 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
@@ -102,3 +105,5 @@ Here is a set of raw data from an actual bowling session:
 * 1-26-24: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
 
 [General CS400 Fall 2023 News](../../index.html)
+
+-->
