@@ -70,4 +70,4 @@ For each weekly meeting, you (individually) will receive one of the following ev
 
 **NOTE: Late weekly journal entries will receive a 50% deduction from the grade they would have otherwise received.**
 
-**NOTE: Failure to maintain ADEQUATE AND TIMELY weekly journal entries could result in receiving a failing grade for the course.
+**NOTE: Failure to maintain ADEQUATE AND TIMELY weekly journal entries could result in receiving a failing grade for the course.**
