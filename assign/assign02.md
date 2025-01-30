@@ -5,9 +5,7 @@ title: Weekly Journals, Stand-Up Meetings, Demos
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
-- [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
 These are a mix of **Team** and **Individual** assignments.
 
@@ -22,7 +20,7 @@ On the weeks that you do not have an assignment or Milestone to present, you wil
 
 As in the Fall, you will each maintain a **Weekly Journal** as a shared Google doc on your team's drive.  Your journal entries should capture your work for the week so that you can present accurate information at your weekly stand-up meeting.
 
-Your weekly journals are due by 11:00am (before class) on the day of your stand-ups/Milestone presentation, and **MUST** address the following points:
+Your weekly journals are due by Noon (before class) on the day of your stand-ups/Milestone presentation, and **MUST** address the following points:
 
 - Briefly describe what your TEAMS/s are working on, and your contribution to that progress.
 - Describe what YOU accomplished over the past week
@@ -71,3 +69,5 @@ For each weekly meeting, you (individually) will receive one of the following ev
 * **0 - Unacceptable**: No work was performed over the last week.
 
 **NOTE: Late weekly journal entries will receive a 50% deduction from the grade they would have otherwise received.**
+
+**NOTE: Failure to maintain ADEQUATE AND TIMELY weekly journal entries could result in receiving a failing grade for the course.

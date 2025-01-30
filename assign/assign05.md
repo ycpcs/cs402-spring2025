@@ -5,9 +5,7 @@ title: Milestone 2 Presentation
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
-- [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
 This is a **Team** assignment.
 
@@ -15,13 +13,13 @@ This is a **Team** assignment.
 
 # Your Task
 
-Your task is to demonstrate your progress toward your golas for Milestone 2 that you established previously.
+Your task is to demonstrate your progress toward your goals for Milestone 2 that you established previously.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 # The Presentation / Demonstration
 
-Each project team should plan to present for about 50-60 minutes.  Larger teams (with multiple sub-teams) will likely go longer than that.  There will likely also be an extensive question and answer period.
+You will have at least 60 minutes to give you presentation/demonstration.  There will likely also be an extensive question and answer period.
 
 You should use presentation software such as PowerPoint or Google Slides. Your slides should contain brief bulleted points and graphics (tables, diagrams, screen captures, wire frames) that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or from a prepared script.
 

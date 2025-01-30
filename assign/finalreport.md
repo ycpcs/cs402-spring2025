@@ -5,9 +5,7 @@ title: Final Technical Report
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
-- [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
 This is a **Team** assignment.
 
@@ -43,7 +41,7 @@ The **references** section should list the references that you have used through
  
 Throughout the document, use **figures, diagrams, tables, screen captures, wire frames, etc** where appropriate to help the reader grasp the overall content that you are presenting.  Refer back to the appropriate figure/table in your text.  A picture is worth at least 1024 (1K) words.  Each of the above must have a figure/table number, as well as a title - below each figure.  For example: "Figure 1: Overall System Architecture Diagram".  Also, all figure/table numbers should be in sequential order in the document.
 
-**NOTE: There is no draft technical report submission for CS402.  By this time, we except that you know how to structure and write a great technical report.  Also, your technical report is due after your final presentation - you can pull many of your diagrams from you final presentation.**
+**NOTE: There is no draft technical report submission for CS402, although we will use the final day of classes to review your progress and answer any questions you may have.  By this time, we except that you know how to structure and write a great technical report.  Also, your technical report is due after your final presentation - you can pull many of your diagrams from you final presentation.**
 
 Here are several excellent examples of final technical reports from the Radio Telescope Project from 2022:
 

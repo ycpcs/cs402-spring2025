@@ -5,9 +5,7 @@ title: Individual Proposal and Wish List
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
-- [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
 This is an **Individual** assignment. Create your document in Google Docs so that you can share it with your team members, since you are all going to collectively negotiate which tasks and assignments the team is going to tackle for the semester.
 
