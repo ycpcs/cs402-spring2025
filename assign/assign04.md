@@ -14,6 +14,7 @@ This is a **Team** assignment.
 # Your Task
 
 Your task is to demonstrate your progress toward the goals you previously established for Milestone 1.
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 # The Presentation / Demonstration
