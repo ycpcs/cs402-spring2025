@@ -53,7 +53,7 @@ Here are the links for the CS Capstone II projects for Spring 2025:
 
 * 1-31-25: All of the Project Milestone assignments and the Final Report assignment have been posted.  Please review the RevMetrix assignment schedule for the assignment descriptions and the due dates.
 
-* 1-31-25: The due dates for your project's [Detailed Proposal and Design] (assign03)](./assign/assign03.html) have been posted.  Check the RevMetrix project page for details.
+* 1-31-25: The due dates for your project's [Detailed Proposal and Design (assign03)](./assign/assign03.html) have been posted.  Check the RevMetrix project page for details.
 
 * 1-31-25: The due dates for your [Individual Proposal and Wish List (assign01)](./assign/assign01.html) have been posted.  Check the RevMetrix project page for details.
 
