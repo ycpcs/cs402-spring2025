@@ -28,7 +28,7 @@ You will be continuing development of the RevMetrix Project, building upon the a
 
 Your basic goals for the semester are to:
 
-TBD
+TBD based on the Final Team Project Proposal and Design Document
 
 <!-- Commenting out News until it's needed - and the dates could change, anyway
 

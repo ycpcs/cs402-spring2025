@@ -10,7 +10,8 @@ This is the assignment schedule for the Spring 2025 CS402 RevMetrix Project.
 :--------------|:---------
 [Assignment 1: Individual Proposal and Wish List](../../assign/assign01.html)| Friday, Feb, 7th by Noon (before class)
 [Assignment 2: Weekly Journal Updates](../../assign/assign02.html)<br><br>[Assignment 2: Team Stand-Up Meetings](../../assign/assign02.html) | Every Wednesday by Noon (before class): Updated for the week on Google Drive<br><br> Wednesdays (in class): Stand-Up Meetings (when there is not a Milestone Presentation that week)
-[Assignment 3: Detailed Project Proposal, Design, and Schedule](../../assign/assign03.html) | Wednesday, Feb 19th by Noon (before class): <br> Team Project Proposal Presentation in class
+[Assignment 3: Detailed Project Proposal, Design, and Schedule - Draft](../../assign/assign03.html) | Wednesday, Feb 19th by Noon (before class): <br> Draft Team Project Proposal Presentation and Review in class
+[Assignment 3: Detailed Project Proposal, Design, and Schedule - Final](../../assign/assign03.html) | Monday, Feb 24th by Noon
 [Assignment 4: Milestone 1](../../assign/assign04.html)   | Wednesday, Mar 12th (in class): Milestone 1 Presentation<br>Friday, Mar 14th by Noon: Mid-Term Peer Evals due
 [Assignment 5: Milestone 2](../../assign/assign05.html)   | Wednesday, Apr 2nd (in class): Milestone 2 Presentation
 [Assignment 6: Milestone 3](../../assign/assign06.html)   | Wednesday, Apr 16th (in class): Milestone 3 Presentation
