@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Syllabus"
+course_number: CS402
+title: Syllabus
 ---
 
 CS 402 - Capstone Design II <br>
