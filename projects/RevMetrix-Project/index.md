@@ -29,10 +29,6 @@ You will be continuing development of the RevMetrix Project, building upon the a
 
 Your basic goals for the semester are to:
 
-TBD based on the Final Team Project Proposal and Design Document
-
-<!-- Commenting out News until it's needed - and the dates could change, anyway
-
 *	Develop a functional RevMetrix **Bowler** User Interface (RMxB-UI) that allows for bowler input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix User Back-End Database (RMxB-DB). The RMxB-UI is a multi-platform phone application.  If the cross-platform development tools support it, a Windows PC version of the RMxB-UI application would also be useful (but not a high priority).  Here is the description for the [RevMetrix Bowler UI Requirements](RevMetrix.html).  It does **NOT** cover the Research User Interface.  And here is a [Prototype Shot Entry Page](RevMetrix-Bowler-UI-Shot-Entry.html) to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
 
 *	Develop a similar functional RevMetrix **Research** User Interface (RmxR-UI) that allows for research data input to be collected, stored, retrieved, and displayed, utilizing the RevMetrix Research Back-End Database (RMxR-DB). The RMxR-UI will be a Windows laptop touchscreen application.  The data stored in the RMxR-DB will be a superset of the data stored in the RMxB-DB.
@@ -43,6 +39,11 @@ TBD based on the Final Team Project Proposal and Design Document
 
 *	Continue development on the Unity Simulator that is intended to generate animated ball paths that can be used to create known video frame and ball path data for use by Ciclopes.
 
+*	Continue to develop BLE (Bluetooth Low-Energy) connectivity between BLE sensor hardware (3-axis accelerometer, 3-axis gyroscope, ambient light sensor) and a phone application so that the BLE sensor suite can upload live data to a phone application.
+
+TBD based on the Final Team Project Proposal and Design Document
+
+<!-- Commenting out News until it's needed - and the dates could change, anyway
 *	Develop automated algorithms for frame-by-frame video processing of the Unity Simulation animation to extract the lane boundaries and ball locations within those boundaries.  Confirm the accuracy of the above algorithms by comparing their output with the Unity Simulation data that generated the frames for the animation.
 real video and start to modify, as necessary.
 
@@ -51,8 +52,6 @@ real video and start to modify, as necessary.
 *	Develop algorithms that will extract relevant ball path and velocity data from the frame-by-frame analysis of the video, after transforming the lane boundaries and the ball location within each frame into a collection of normalized rectilinear frames.
 
 *	Refine the Ciclopes algorithms above to work reliably with real bowler video.
-
-*	Continue to develop BLE (Bluetooth Low-Energy) connectivity between BLE sensor hardware (3-axis accelerometer, 3-axis gyroscope, ambient light sensor) and a phone application so that the BLE sensor suite can upload live data to a phone application.
 
 -->
 
