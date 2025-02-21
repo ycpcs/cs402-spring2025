@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS320 (RevMetrix)
+course_number: CS402 (RevMetrix)
 title: "RevMetrix Bowler User Interface"
 ---
 
