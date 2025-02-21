@@ -19,7 +19,7 @@ This is the web page for the RevMetrix Project for CS402 Spring 2024 at [York Co
 * [CS402-Fa24 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [RevMetrix Bowler User Interface Requirements](https://ycpcs.github.io/cs320-spring2025/projects/RevMetrix.html)
+* [RevMetrix Bowler User Interface Requirements](RevMetrix.html)
 * [RevMetrix Project Wiki](https://docs.revmetrix.io)
 * [RevMetrix Research](https://research.revmetrix.io)
 
