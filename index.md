@@ -12,9 +12,6 @@ title: CS Capstone II
 
 This is the website for CS402 (CS Capstone II) Spring 2025 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
 
-## THIS WEBSITE IS STILL UNDER CONSTRUCTION
--------------------------------------------
-
 Here are the links for the CS Capstone II projects for Spring 2025:
 
 [RevMetrix Project Course Web Page](./projects/RevMetrix-Project/index.html).

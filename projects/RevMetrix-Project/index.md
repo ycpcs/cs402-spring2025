@@ -76,34 +76,42 @@ Here is a set of raw data from an actual bowling session:
 ## News
 <!-- Commenting out News until it's needed - and the dates could change, anyway
 
-* 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
+* 5-1-25: Our end-of-semester bowling party will be held on Thursday/Friday 5-15-25/5-16-25 at Suburban Bowlerama starting at TBD.  There will be two hours of bowling, all-you-can eat pizza, pretzels, chips, and soda.  Please let us know if you do NOT plan on attending.
 
-* 11-14-22: Assignment 7 (Final System Presentation) is from 11:00am to 12:50pm, Monday, 12-5-22, with presentation and demo in class
+* 5-1-25: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out immediately after the final presentation, and are due by Noon, Wednesday, 5-14-25.
 
-* 11-14-22: Assignment 7 (Draft Technical Report) is due by Noon, Sunday, 12-4-22, in your Google Team Drive
+* 5-1-25: Assignment 7 (Final Technical Report): due by Noon Thursday, 5-15-25 in your Google Team Folder
 
-* 11-14-22: Your status report for Monday, 11-28-22 has been moved to Wednesday, 11-30-22
+* 5-1-25: Milestone 4 Final Presentation: Monday, 5-12-25, 12:45p to 2:45p (during the Final Exam period).
 
-* 11-14-22: On Monday, 11-21-22, you will be giving your status update to your clients: Tyler Franks & David McHugh 
+* 4-2-25: Capstone Expo: Thursday, 4-24-25, from 3:00p to 6:00p in KEC (with team photos)
 
-* 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Monday, 11-14-22, with presentation and demo during class
-
-* 9-29-22: Mid-Semester Peer Evals are due Wednesday, 10-26-22 by Noon, via email in PDF form
-
-* 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Monday, 10-24-22, with presentation and demo during class
-
-* 2-18-24: Posted the basic requirements for the RevMetrix Project for this semester.
-
-* 2-16-24: Posted a link to a JavaScript prototype of the Shot Entry Page to give you a basic idea of user workflow and functionality.  This is a prototype.  It is, **by no means**, quality code, as it contains the first JS I've ever written - with a lot of help from ChatGPT.  It should however, give you an idea of how the user will enter the results for each shot.
-
-* 2-16-24: Posted a link to the RevMetrix Bowler User Interface Requirements.
-
-* 2-5-24: [Assign03: Detailed Project Proposal Design and Schedule](../../assign/assign03.html) is due before class (with presentation in class) on Monday, 2-19-24.
-
-* 1-26-24: [Assign01: Individual Proposal and Wish List](../../assign/assign01.html) is due before class (with presentation in class) on Monday, 2-5-24.
-
-* 1-26-24: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
-
-[General CS400 Fall 2023 News](../../index.html)
+* 4-2-25: Milestone 3 Final Presentation: Wednesday, 4-16-25
 
 -->
+
+* 3-11-25: Milestone 2 Presentation: Wednesday, 4-2-25
+
+* 2-28-25: Mid-semester Peer Evals are two days after your Milestone 1 presentation: by Noon, Friday, 3-14-25.  We will send the peer evaluation forms out via email after your presentation.
+
+* 2-28-25: Milestone 1 Presentation: Wednesday, 3-12-25.
+
+* 2-13-25: The due dates for your project's **draft** and **final** [Detailed Proposal and Design (assign03)](./assign/assign03.html) have been updated.  Check the RevMetrix project page for details.
+
+* 2-5-25: Weekly journal entries start this week, with presentations every Wednesday of the following week
+
+* 1-31-25: All of the Project Milestone assignments and the Final Report assignment have been posted.  Please review the RevMetrix assignment schedule for the assignment descriptions and the due dates.
+
+* 1-31-25: The due dates for your project's [Detailed Proposal and Design (assign03)](./assign/assign03.html) have been posted.  Check the RevMetrix project page for details.
+
+* 1-31-25: The due dates for your [Individual Proposal and Wish List (assign01)](./assign/assign01.html) have been posted.  Check the RevMetrix project page for details.
+
+* 1-27-25: The returning members of the RevMetrix team will give a full demo of the current state of the RevMetrix project on Friday, 1-31-25 for the benefit of the new members of the team, as well as to verify that the project is still in a working state after the semester break.
+
+* 1-27-25: CS402 meets on M-W-F from 12:00p to 1:30p.  The RevMetrix project team will meet on a weekly basis on Wednesdays in KEC 119 for stand ups and assignment and Milestone presentations.  The remaining two weekly class sessions are reserved for team project workdays in KEC 118 and/or KEC119.
+
+* 1-27-25: All students in CS402 will be meeting on the first day of class (Mon, 1-27-25) in KEC 119 to go over our expectations and requirements for the course.
+
+* 1-27-25: There is only one project this semester - all students will be working on some aspect of the RevMetrix project.
+
+* 1-27-25: Welcome back to Kinsley Engineering Center and CS402 - where your academic endeavors converge (and/or collide) with the real world.  And where you will continue to discover just how "pesky" real world clients can be... :-)
