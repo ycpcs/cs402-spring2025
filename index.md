@@ -27,29 +27,25 @@ Here are the links for the CS Capstone II projects for Spring 2025:
 ## News
 <!-- Commenting out News until it's needed - and the dates could change, anyway
 
-* 11-28-23: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out to each team immediately after their respective final presentations.  The due dates are - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23.
+* 5-1-25: Our end-of-semester bowling party will be held on Thursday/Friday 5-15-25/5-16-25 at Suburban Bowlerama starting at TBD.  There will be two hours of bowling, all-you-can eat pizza, pretzels, chips, and soda.  Please let us know if you do NOT plan on attending.
 
-* 11-28-23: Our end-of-semester celebration dinner will be on Tuesday, 12-5-23 starting at 6:30pm at Stone Grille & Taphouse, 204 St. Charles Way, York, PA 17402.  Please let us know if you do NOT plan on attending.
+* 5-1-25: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out immediately after the final presentation, and are due by Noon, Wednesday, 5-14-25.
 
-* 11-28-23: Assignment 7 (Final Report) due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23
+* 5-1-25: Assignment 7 (Final Technical Report): due by Noon Thursday, 5-15-25 in your Google Team Folder
 
-* 11-26-23: Posted two examples of integrated, multi-team final presentations (look under [Assignment 7 Final Presentation](./assign/assign07.html)).  Also posted several examples of final technical reports (look under [Assignment 7 Final Report](./assign/finalreport.html)).
+* 5-1-25: Milestone 4 Final Presentation: Monday, 5-12-25, 12:45p to 2:45p (during the Final Exam period).
 
-* 11-26-23: Assignment 7 (Draft Technical Report): due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 11-29-23; YCPHacks: Noon, Friday, 12-1-23; RevMetrix: Noon, Sunday 12-3-23
+* 4-2-25: Capstone Expo: Thursday, 4-24-25, from 3:00p to 6:00p in KEC (with team photos)
 
-* 11-10-23: Milestone 3 Final Presentations: Privilege Walk, Friday, 12-1-23 (in class); YCPHacks, Monday, 12-4-23 (in class); RevMetrix: Wednesday, 12-6-23 (in KEC 119 during the Final Exam period, 8:00 to 10:00).
-
-* 11-10-23: There will be no status updates the week following Thanksgiving Break (the last week of classes).  Monday, 11-27-23 and Wednesday, 11-29-23 will be team work days.  Friday, 12-1-23 will be the Privilege Walk Final Presentation.
-
-* 11-5-23: Due to overwhelming participation at YCPHacks this weekend, CS Capstone is cancelled for Monday, 11-6-23.
-
-* 11-1-23: Milestone 2 Presentations: Privilege Walk, Wednesday, 11-8-23; RevMetrix, Friday, 11-10-23; YCPHacks, Monday, 11-13-23.
-
-* 10-18-23: Mid-semester Peer Evals are due by Noon two days after your respective project's Milestone 1 presentation.  Privilege Walk: Wednesday, by Noon on 10-25-23; YCPHacks: Friday, by Noon on 10-27-23; RevMetrix: Sunday, by Noon on 10-29-23.  We will send the peer evaluation forms out via email after your respective presentations.
-
-* 10-18-23: Milestone 1 Presentations: Privilege Walk, Monday, 10-23-23; YCPHacks, Wednesday, 10-25-23; RevMetrix, Friday 10-27-23.
+* 4-2-25: Milestone 3 Final Presentation: Wednesday, 4-16-25
 
 -->
+
+* 3-11-25: Milestone 2 Presentation: Wednesday, 4-2-25
+
+* 2-28-25: Mid-semester Peer Evals are two days after your Milestone 1 presentation: by Noon, Friday, 3-14-25.  We will send the peer evaluation forms out via email after your presentation.
+
+* 2-28-25: Milestone 1 Presentation: Wednesday, 3-12-25.
 
 * 2-13-25: The due dates for your project's **draft** and **final** [Detailed Proposal and Design (assign03)](./assign/assign03.html) have been updated.  Check the RevMetrix project page for details.
 
