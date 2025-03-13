@@ -40,9 +40,9 @@ Here are the links for the CS Capstone II projects for Spring 2025:
 
 * 3-11-25: Milestone 2 Presentation: Wednesday, 4-2-25
 
-* 2-28-25: Mid-semester Peer Evals are two days after your Milestone 1 presentation: by Noon, Friday, 3-14-25.  We will send the peer evaluation forms out via email after your presentation.
+* 2-28-25: Mid-semester Peer Evals are two days after the conclusion of your Milestone 1 presentation: by Noon, Sunday, 3-16-25.  We will send the peer evaluation forms out via email after the conclusion of your presentation.
 
-* 2-28-25: Milestone 1 Presentation: Wednesday, 3-12-25.
+* 2-28-25: Milestone 1 Presentation: Wednesday, 3-12-25 and Friday, 3-14-25.
 
 * 2-13-25: The due dates for your project's **draft** and **final** [Detailed Proposal and Design (assign03)](./assign/assign03.html) have been updated.  Check the RevMetrix project page for details.
 
