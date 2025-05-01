@@ -22,21 +22,19 @@ Here are the links for the CS Capstone II projects for Spring 2025:
 * [Syllabus](syllabus.html)
 
 ## News
-<!-- Commenting out News until it's needed - and the dates could change, anyway
+<!-- Commenting out News until it's needed - and the dates could change, anyway -->
 
-* 5-1-25: Our end-of-semester bowling party will be held on Thursday/Friday 5-15-25/5-16-25 at Suburban Bowlerama starting at TBD.  There will be two hours of bowling, all-you-can eat pizza, pretzels, chips, and soda.  Please let us know if you do NOT plan on attending.
-
-* 5-1-25: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out immediately after the final presentation, and are due by Noon, Wednesday, 5-14-25.
+* 5-1-25: Assumin gthat we can come up with the funding, our end-of-semester bowling party will be held on Thursday 5-15-25 at Suburban Bowlerama starting at 3:30p.  There will be two hours of bowling, all-you-can eat pizza, pretzels, chips, and soda.  Please let us know if you do NOT plan on attending.
 
 * 5-1-25: Assignment 7 (Final Technical Report): due by Noon Thursday, 5-15-25 in your Google Team Folder
 
 * 5-1-25: Milestone 4 Final Presentation: Monday, 5-12-25, 12:45p to 2:45p (during the Final Exam period).
 
-* 4-2-25: Capstone Expo: Thursday, 4-24-25, from 3:00p to 6:00p in KEC (with team photos)
+* 4-2-25: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out immediately after the Capstone Expo, and are due by Noon, Friday, 5-2-25.
+
+* 4-2-25: Capstone Expo: Thursday, 4-24-25, from 2:00p (set-up) to 5:30p in KEC (with team photos - and FREE FOOD!!!)
 
 * 4-2-25: Milestone 3 Final Presentation: Wednesday, 4-16-25
-
--->
 
 * 3-11-25: Milestone 2 Presentation: Wednesday, 4-2-25
 
